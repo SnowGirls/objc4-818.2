@@ -7,5 +7,5 @@
 
 - Compatiable with macOS 12.6 & Xcode 14.0
 
-
+- Show Preprocessor Definitions with command `cpp -dM /dev/null`
 
